@@ -1,0 +1,5 @@
+    License
+
+    This project follows the license terms of the original EvoPrompt repository.
+    
+    Please refer to the original authors for licensing details.
